@@ -57,7 +57,7 @@ npm run dev
 
 - **Moral Matcher**: `cross-encoder/ms-marco-MiniLM-L-6-v2` (CrossEncoder)
 - **Reality Predictor**: XGBRegressor (300 trees, 11 features, 5-fold CV)
-- **Gemini Filter**: `gemini-1.5-flash` (fact-checking + sentiment)
+- **Gemini Filter**: `gemini-2.5-flash` (fact-checking + sentiment)
 
 ## License
 
